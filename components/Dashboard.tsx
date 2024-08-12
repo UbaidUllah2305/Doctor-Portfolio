@@ -48,7 +48,7 @@ function Dashboard() {
             <Image
               src={heroimage4}
               alt="heroimage4"
-              height={100}
+              height={110}
               width={1500}
             />
           </div>
